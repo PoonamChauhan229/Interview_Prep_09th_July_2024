@@ -1,0 +1,69 @@
+Q1. What is Node.js?
+>Node/Nodejs is neither a language nor a Framework
+It provides us an runtime environment for executing Javascript code on the server side
+___________________________________________________________________________________________
+
+Q2. How Node is a runtime environment on server side? What is V8?
+>Browsers execute the Javascript code on Client side
+similarly, NodeJS executes the Javascript code on the Server Side
+V8 is a Javascript engine for Javascript language.
+___________________________________________________________________________________________
+
+Q3. What is the difference between Runtime environment & Framework?
+>Runtime environment primarily focuses on providing infrasturce for the code execution
+ and also offers services like memory managemnet, input-output operations
+>Framework primarily focuses on simplifying the development process 
+ by providing structures set of tools, libraries and best practices
+___________________________________________________________________________________________
+
+Q4. What is the difference between Node.js & Express.js?
+>Nodejs is a runtine environment for executing the Javascript code on server side
+>Expressjs is built on top of Nodejs. It is designed to simplify the process
+ of building web applications and APIs by providing features like simple routing sytems,
+ middleware support etc
+___________________________________________________________________________________________
+Q5. What are the differences between Client-Side(Browser) & Server-Side(Node.js)?
+>Client Side environment location is Browser,
+ Primary Languages is HTML,CSS & JS and it has document/window/navigator/Events Objects.
+ Its major responsibilitiesis to handle UI display, interactions and Clientside logic
+
+ Server Side environment location is Nodejs,
+ Primary Languages is JS and its has request/response/server/database Objects
+ Its major responsibilitiesis to handle businness logic/data storage/authentication/authorization etc.
+__________________________________________________________________________________________
+
+Q6. What are the 7 Main Features of Node.js?
+- It's a Single Threaded Language
+- It is Asynchronous in nature
+- It follows Event Driven Architecture
+- It uses the V8 JavaScript Engine
+- It has Cross-Platform Compatibility
+- It has npm (Node Package Manager)
+- It can be Useful for Real-Time Capabilities
+
+__________________________________________________________________________________________
+
+Q7. What is Single Threaded Programming?
+>A single-threaded language is a programming language that executes all operations on a single thread. 
+This means that only one set of instructions is processed at a time, in a sequential manner.
+__________________________________________________________________________________________
+
+Q8. What is Synchronous Programming?
+>
+__________________________________________________________________________________________
+Q. What is Multi Threaded Programming?
+
+__________________________________________________________________________________________
+Q. What is Asynchronous Programming?.
+
+__________________________________________________________________________________________
+Q. What is the difference between Synchronous & Asynchronous programming?
+
+__________________________________________________________________________________________
+Q. What are Events, Event Emitter, Event Queue, Event Loop & Event Driven?
+
+__________________________________________________________________________________________
+Q. What are the main features & advantages of Node.js?
+
+__________________________________________________________________________________________
+Q. What are the disadvantages of node?

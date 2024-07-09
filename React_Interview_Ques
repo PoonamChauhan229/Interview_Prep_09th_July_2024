@@ -1,0 +1,31 @@
+Q1. What is React? What is the Role of React in software development?
+>React is a open source Javascript Library
+>React is used for building UI
+>With the Help of React, we can create SPA by using reusable components
+
+Q2. What are the Key Features of React?
+>Virtual DOM
+>Reusable Component and Composition
+>Javascript XML(JSX)
+>Declarative Syntax
+>Community and Ecosysytems
+>React Hooks
+>Component Based Architecture
+
+Q3. What is DOM? What is the difference between HTML and DOM?
+>DOM is Document Object Model,represents the entire webPage as a tree-like structure which allows JS to dynamically access and manipulate the content and structutre of WebPage
+>HTML is Standard MarkUp Language which allows user to create a static WebPage and defines the structure of the WebPage. HTML doesnt have a capability to interact with the User Actions and also it doesnt change once the it is loaded in the browser.
+
+Q4. What is Virtual DOM? Difference between DOM and Virtual DOM?
+
+Q5. What are React Components? What are the main elements of it?
+
+Q6. What is SPA(Single Page Application)?
+
+Q7. What are the 5 Advantages of React?
+
+Q8. What are the Disadvantages of React?
+
+Q9. What is the role of JSX in React? (3 points)
+
+Q10. What is the difference between Declarative & Imperative syntax?

@@ -25,9 +25,23 @@ and also it doesnt change once the it is loaded in the browser.
 ______________________________________________________________________________________________________
 
 Q4. What is Virtual DOM? Difference between DOM and Virtual DOM?
+>React uses Virtula DOm to efficiently update the UI.
+without rendering the entire Web page, which helps to improve the 
+performance and make the application more responsive
+
+>Difference Between DOM and Virtual DOM
+DOM is actual respresentation of the WebPage,
+it re-renders the entire WebPage on any update
+it can be slower, with multiple updates
+it is suitable for static websites and simple applications
+
+Virtual DOM is lightweight , copy of REAL DOM
+it re-renders the changed part faster
+it is ideal for dynamic and complex single page applications
 ______________________________________________________________________________________________________
 
-Q5. What are React Components? What are the main elements of it?
+Q5. What are React Components?17:32
+>React Component is a reusable building block for creating UI
 ______________________________________________________________________________________________________
 
 Q6. What is SPA(Single Page Application)?

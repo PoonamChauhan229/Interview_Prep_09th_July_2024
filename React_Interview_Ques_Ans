@@ -2,6 +2,7 @@ Q1. What is React? What is the Role of React in software development?
 >React is a open source Javascript Library
 >React is used for building UI
 >With the Help of React, we can create SPA by using reusable components
+______________________________________________________________________________________________________
 
 Q2. What are the Key Features of React?
 >Virtual DOM
@@ -11,16 +12,26 @@ Q2. What are the Key Features of React?
 >Community and Ecosysytems
 >React Hooks
 >Component Based Architecture
+______________________________________________________________________________________________________
 
 Q3. What is DOM? What is the difference between HTML and DOM?
->DOM is Document Object Model,represents the entire webPage as a tree-like structure which allows JS to dynamically access and manipulate the content and structutre of WebPage
->HTML is Standard MarkUp Language which allows user to create a static WebPage and defines the structure of the WebPage. HTML doesnt have a capability to interact with the User Actions and also it doesnt change once the it is loaded in the browser.
+>DOM is Document Object Model,represents the entire webPage as a tree-like structure 
+which allows JS to dynamically access and manipulate the content and structure of WebPage
+
+>HTML is Standard MarkUp Language which allows user to create a static WebPage 
+and defines the structure of the WebPage. 
+HTML doesnt have a capability to interact with the User Actions 
+and also it doesnt change once the it is loaded in the browser.
+______________________________________________________________________________________________________
 
 Q4. What is Virtual DOM? Difference between DOM and Virtual DOM?
+______________________________________________________________________________________________________
 
 Q5. What are React Components? What are the main elements of it?
+______________________________________________________________________________________________________
 
 Q6. What is SPA(Single Page Application)?
+______________________________________________________________________________________________________
 
 Q7. What are the 5 Advantages of React?
 
